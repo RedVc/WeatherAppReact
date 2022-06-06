@@ -1,0 +1,17 @@
+link
+api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
+https://api.openweathermap.org/data/2.5/forecast?q={city name},{country code}&appid={API key}
+
+link completo con api
+https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires&appid=1f8d12b92024ad713dea24ed54db405f
+https://api.openweathermap.org/data/2.5/weather?q=Buenos Aires,Argentina&appid=1f8d12b92024ad713dea24ed54db405f
+https://api.openweathermap.org/data/2.5/forecast?q=Buenos Aires,Argentina&appid=1f8d12b92024ad713dea24ed54db405f
+
+
+appid -bloqueadas
+1f8d12b92024ad713dea24ed54db405f
+4a1158f7b7f120927a70c9dbe692244b
+
+- funcionales
+282a4ef4a922b695e6c1cfd535cdc4db
